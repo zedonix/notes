@@ -1,1 +1,2 @@
 https://0xax.gitbooks.io/linux-insides/content/Booting/
+https://wyag.thb.lt/#intro
