@@ -4,3 +4,4 @@
 3. https://linuxjourney.com/
 4. https://michael.plotke.me/posts/sway-status/
 5. https://overthewire.org/wargames/
+6. https://www.supergrubdisk.org/super-grub2-disk/
