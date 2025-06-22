@@ -1,6 +1,6 @@
 # Just some links I wanted to save
-https://0xax.gitbooks.io/linux-insides/content/Booting/
-https://wyag.thb.lt/#intro
-https://linuxjourney.com/
-https://michael.plotke.me/posts/sway-status/
-https://overthewire.org/wargames/
+1. https://0xax.gitbooks.io/linux-insides/content/Booting/
+2. https://wyag.thb.lt/#intro
+3. https://linuxjourney.com/
+4. https://michael.plotke.me/posts/sway-status/
+5. https://overthewire.org/wargames/
