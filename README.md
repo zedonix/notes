@@ -11,4 +11,4 @@
 10. https://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners
 11. https://docs.python-guide.org/writing/style/
 12. https://app.diagrams.net/
-13. https://www.englishclub.com/learn/
+13. https://www.dash0.com/guides/systemd-logs-linux-journalctl
